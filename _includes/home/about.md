@@ -20,6 +20,7 @@ Get your great idea into the hands of millions of Firefox users. Join an interna
 <div class="grid-container grid-x grid-padding-x align-center tiles-intro">
 <div class="cell small-12 medium-8 xlarge-6 text-center" markdown="1">
 
+<section id="about"></section>
 ### Cool Things Extensions Can Do
 
 </div>
